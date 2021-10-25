@@ -28,12 +28,12 @@
   * ##### The implementation of Perception. In addition, we have implemented a function to plot the feature importance for both datasets: a4a( binary classification) and iris ( multiclass classification).
 
 
-Find below the results:
+# Find below the results:
 
-![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/iris_dataset_kNN_1.png)
-![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/a4a_dataset_kNN_2.png)
-![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/a4a_dataset_perception_1.png)
-![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/iris_dataset_perception_2.png)
+![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/iris_dataset_kNN_1.png)<br/>
+![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/a4a_dataset_kNN_2.png)<br/>
+![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/a4a_dataset_perception_1.png)<br/>
+![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/iris_dataset_perception_2.png)<br/>
 
 # Feature Importance for Perception
 ### a4a dataset - Binary classification
