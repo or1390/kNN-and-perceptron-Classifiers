@@ -30,7 +30,19 @@
 
 Find below the results:
 
-![alt text](https://github.com/[or1390]/blob/[iris_dataset_kNN_1.png?raw=true)
+![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/iris_dataset_kNN_1.png)
+![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/a4a_dataset_kNN_2.png)
+![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/a4a_dataset_perception_1.png)
+![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/iris_dataset_perception_2.png)
+
+# Feature Importance for Perception
+### a4a dataset - Binary classification
+![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/a4a_feature_importance_perception.png)
+### iris dataset - Multiclass classification
+![image](https://github.com/or1390/mini-project1/blob/f345bd271af99d7987a98be3c1d477c633ccdf13/iris_feature_importance_perception.png)
+
+
+
 	
 	
 
